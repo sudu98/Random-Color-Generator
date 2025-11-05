@@ -1,0 +1,22 @@
+
+
+.wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.buttonSection{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+.title{
+  margin-top: 30vh;
+  font-size: larger;
+  font-weight: 400;
+}
+.colorCode{
+  margin-top: 10vh;
+}
